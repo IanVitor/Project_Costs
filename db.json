@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "NBA finder",
+      "budget": "1200",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Facebook",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1500,
+      "services": [
+        {
+          "name": "Contratar programador PHP",
+          "cost": "1500",
+          "description": "O programador vai desenvolver a aplicação.",
+          "id": "96432db9-a5dc-4f08-9ca3-0e384a840227"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
