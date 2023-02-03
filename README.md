@@ -2,7 +2,7 @@
  
  <H1>Gerenciador de Projetos</H1>
  
- <img src='./src/imagens/localhost_3000_newprojects.jpg'>
+ <img src='./src/img/localhost_3000_.png'>
  
 <p>
  Projeto construido a partir do curso de React do <a href="#">Matheus Batisti</a>.
