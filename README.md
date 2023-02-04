@@ -23,7 +23,7 @@
 <hr>
 
 <h2>Features:</h2>
-<ul list-style: square>
+<ul styles="list-style: square">
  <li>Criar Projetos</li>
  <li>Editar e Excluir Projetos</li>
  <li>Adicionar serviços aos projetos</li>
