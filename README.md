@@ -11,7 +11,7 @@
 <hr>
 
 <dl>
- <dt>Tecnologias:</dt><br>
+ <dt><h2>Tecnologias:</h2></dt><br>
   <dd><img width=20px height=20px src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png'> HTML5</dd>
   <dd><img width=20px height=20px src='https://icones.pro/wp-content/uploads/2022/08/css3.png'> CSS3</dd>
   <dd><img width=20px height=20px src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'> React</dd>
@@ -23,7 +23,7 @@
 <hr>
 
 <h2>Features:</h2>
-<ul>
+<ul list-style: square>
  <li>Criar Projetos</li>
  <li>Editar e Excluir Projetos</li>
  <li>Adicionar serviços aos projetos</li>
